@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "type_traits": "c",
+        "philo.h": "c",
+        "pthread.h": "c",
+        "stdio.h": "c",
+        "sys/time.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "enabled"
+}
